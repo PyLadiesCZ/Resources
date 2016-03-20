@@ -1,4 +1,4 @@
-# PyLadiesCZ-swag
+# Resources
 
 PyLadies and the PyLadies logo are trademarks of the [Python Software Foundation][1]. Full [Trademark Usage Policy][0].
 If you are a local PyLadies leader, you are free to adapt the logo to your location. However, non-leaders, please [ask][2] first when using a derived version of the logo or when in doubt. All files are Print-Ready.
