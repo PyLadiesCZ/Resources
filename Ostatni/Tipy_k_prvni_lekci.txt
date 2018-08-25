@@ -1,0 +1,24 @@
+Zuzciny tipy k prvni lekci:
+co si myslim, ze by melo zaznit:
+
+urcite je dobre zminit ze si vsichni tykame,
+jak funguje stridani hlavnich / vedlejsich koucu,
+ze tempo je ze zacatku pomale ale pak se to bude prubezne zrychlovat, at se na to pripravi
+Ze je prvni hodina seznamovaci a pomerne chaoticka, protoze se instaluje a odvisi to jednak od rychlosti jednotl. notebooku, jednak od toho, kdo co pouziva za system (Windows vs. Linux/Mac), na dalsich lekcich uz to bude ale ok - to vetsinou rikam na zacatku i na konci prvni lekce :)
+ 
+Ze si maji na zacatek hodiny vzdy pripravit dotazy k minulemu srazu/domacim projektum, ale idealne necekat na sraz a ptat se hned na FB nebo mailu
+ze pouzivani cerveneho papirku neni ostuda ba naopak a hlavne ze zadny dotaz neni hloupy,
+Ze na zacatku je uroven znalosti ruzna, nekdo uz neco umi a nekdo je uplny zacatecnik, ale ze se nemusi bat nebo citit blbe, kurz je delany od uplnych zakladu a praci na domacich projektech se to vsechno da dohnat, hlavne si nechat poradit, kdyz necemu nerozumi
+
+
+Rozvrzeni hodiny
+- Privitani ucastnic a koucu, predstaveni sama sebe (vetsinou nezapomenu zminit, ze jsem kurzem sama prosla a programovani je zatim jen muj konicek, cili nejsem takovy odbornik jako ostatni koucove :))
+- Uvodni prezentace, co je kurz PyLadies (tak 10-15 min), na konci je zmineny Python jako programovaci jazyk, tak rict o jeho vyhodach a vyuziti
+    - minule jsem nechala samotne ucastnice rict, proc je prave Python zajima
+- Probrani organizacnich zalezitosti: tykani, komunikace na FB/mailech, system koucu, system barevnych listecku vc. sbirani zpetne vazby po hodine, domaci projekty, omlouvat se, kdyz nemuzou na lekci prijit, ukazat co kde je na webu pyladies. no a jinak hlavne vysvetlit, ze hlavnim prinosem kurzu pyladies je python komunita a kazda ucastnice to musi chytit do vlastnich rukou, makat na domacich projektech, protoze tim se nejvic nauci, hledat si partacky s podobnym zamerenim, vyuzivat kontakty, networking na srazech, konzultace a rady mimo kurz, protoze jen chodit na kurz samo o sobe nestaci. (Tak 15 min)
+    - prostor na dotazy
+- Uvod do prikazove radky - tipla bych tak 20-25 minut
+- Instalace Pythonu a venv - tak 25 minut
+- Instalace editoru - Atom je hodne velky, stahuje se dost dlouho, kdo ma svuj oblibeny editor, at se prihlasi a skonzultuje s koucem, zda je vhodny. Kdo ma opravdu hodne pomaly notebook, Atom nedoporucuji - muze byt napr. Notepad++
+- Instalace Gitu - neni nutne Git na prvni lekci stihnout, da se udelat az spolu s lekci o gitu. Rozhoduju se vzdy podle pocitu v prubehu lekce. :)
+- Pokud v prubehu vidim, ze je dobre tempo a naslo by se treba 10-15 minut casu, necham predstavit pomocne kouce nebo i samotne ucastnice mezi sebou
