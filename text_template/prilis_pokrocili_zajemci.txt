@@ -1,0 +1,13 @@
+"""Návrh mailu pro holky, které už zjevně mají základy programování v malíku a mohly by nastoupit v průběhu kurzu"""
+
+Hezký večer,
+pozorně jsme prostudovaly všechny přihlášky do nadcházejícího kurzu PyLadies pro začátečníky a na několik z vás, včetně tebe, se obracíme se zvláštní nabídkou. Na základě tvých znalostí programování, které jsi napsala do přihlášky, bychom tě totiž chtěly přizvat až na pokročilejší témata v kurzu, neboť nemá dle našeho názoru smysl učit tě pracovat s příkazovou řádkou a vysvětlovat, co je to proměnná nebo řetězec. 
+Na stránkách http://pyladies.cz/xyz si prosím pozorně projdi materiály, které jsou seřazeny po jednotlivých lekcích a napiš nám, která témata by už pro tebe byla přínosná a zajímavá. 
+
+Do té doby, než se dostaneme k tvým tématům, měla bys: 
+- samostatně si procvičovat Python na domácích projektech s využitím našich materiálů, začít chodit až na témata, co tě budou zajímat (pokud při procvičováni narazíš na cokoliv, co budeš potřebovat dovysvětlit, neboj se zeptat na FB skupině PyLadies Praha)
+- nebo můžeš chodit na srazy ze začátku jako vedlejší koučka. To znamená, že budeš ostatním holkám pomáhat na hodinách řešit jejich záseky během jejich prvních programovacích pokusů 
+
+Dej prosím vědět co nejdříve, co by ti vyhovovalo a domluvíme se posléze na podrobnostech. 
+Srdečně zdraví,
+tým PyLadies Praha
