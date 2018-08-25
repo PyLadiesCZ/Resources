@@ -1,0 +1,12 @@
+Hezký večer,
+pročetly jsme pečlivě všechny přihlášky do začátečnického kurzu PyLadies a bohužel ti musím oznámit, že nejsi mezi vybranými kandidátkami. Přihlásilo se vás Xkrát více než je kapacita prostor, které máme k dispozici. Nicméně tvoje přihláška nás zaujala a věř, že pokud se někdo z kurzu odhlásí, budeš mezi prvními, koho oslovíme.
+
+Pokud by to nevyšlo, chceme ti i tak pomoci, jak je v našich silách. Posíláme ti proto i další tipy:
+
+Náš příští kurz spustíme zřejmě ___, pokud o něj bude opět zájem. Jestliže nechceš do té doby čekat a jsi ochotná se Pythonu věnovat i sama doma, pak tě můžeme odkázat na zajímavé odkazy pro začínající pythonisty na webu http://python.cz/zacatecnici. 
+Nicméně chápeme, že odkazů a návodů je všude spousta a je těžké se rozhodnout, kde začít. Proto bychom k domácímu samostudiu vřele doporučily přímo naše učební materiály PyLadies na webu http://naucse.python.cz (máme pozitivní odezvy od samostudentů, kteří se dle materiálů Python učili doma). Můžeš podle nich postupovat současně s probíhajícím kurzem a jakékoliv dotazy řešit společně s ostatními na FB skupině PyLadies XYZ, kde si lze také domlouvat individuální konzultace.
+
+Máš-li opravdu chuť naučit se programovat, není důvod věšet hlavu, že to tentokrát s kurzem nevyšlo. Možností je spousta, tak jdi do toho, stojí to za to!  
+
+Srdečně zdraví,
+tým PyLadies Praha
