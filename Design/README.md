@@ -1,4 +1,5 @@
-##Samolepky PyLadies - Stickers
+## Samolepky PyLadies - Stickers
+
 #### PyLady Geek logo
   - [červená - red][3]
   - [zelená - green][4]
@@ -11,18 +12,15 @@
   - [modrá - ligth blue][9]
   - [žlutá - yellow][10]
 
-##Placky - Badges
+## Placky - Badges
 
-####Magnetky, zrcátka, placky 56mm - Magnet Badges, Pocket Mirror Badges, Badges 56 mm
+#### Magnetky, zrcátka, placky 56mm - Magnet Badges, Pocket Mirror Badges, Badges 56 mm
 V Praze vyrobili, úžásně rychle [PlackyLevně][11]
   - [56mm placka][12]
 
-####Mini placky 25mm - Mini Badges 25 mm
+#### Mini placky 25mm - Mini Badges 25 mm
 V Praze vyrobili, úžásně rychle [PlackyLevně][11]
   - [25mm placka][13]
-
-
-
 
 
 [2]: mailto:info@pyladies.com
